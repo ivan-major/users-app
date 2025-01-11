@@ -70,7 +70,6 @@ onMounted(async () => {
         @media (min-width: $desktop-breakpoint) {
             width: 50%;
         }
-        // max-width: 400px;
     }
 }
 </style>

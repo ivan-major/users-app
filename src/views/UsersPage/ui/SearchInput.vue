@@ -119,5 +119,4 @@ onMounted(() => input.value.focus())
         }
     }
 }
-
 </style>

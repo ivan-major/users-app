@@ -18,7 +18,7 @@
     }
 
     @media (min-width: $lg-desktop-breakpoint) {
-        margin: 0 auto;
+        margin: 48px auto;
     }
 }
 </style>
