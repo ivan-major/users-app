@@ -6,6 +6,7 @@
 </template>
 
 <script setup>
+import { defineAsyncComponent } from 'vue'
 defineProps({
     iconName: {
         type: String,
